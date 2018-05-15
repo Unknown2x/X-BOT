@@ -3452,15 +3452,11 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
-			print "
-			
-			#######################################################
-			#------We made from smokeless fire of Unknown2.0------#
-			#----------We Don't Fear Any Law.Law Fear Us----------#
-			#-------------Remember We Are Annonymous--------------#
-			#######################################################
-			
-			"
+			print "  #######################################################   "
+			print "  #------We made from smokeless fire of Unknown2.0------#   '
+			print "  #----------We Don't Fear Any Law.Law Fear Us----------#   "
+			print "  #-------------Remember We Are Annonymous--------------#   "
+			print "  #######################################################   "
 			code=500
 	except urllib2.URLError, e:
 			#print e.reason p
