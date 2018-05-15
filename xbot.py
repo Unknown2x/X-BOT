@@ -3414,18 +3414,18 @@ def usage():
 	print 'Unknown2.0 Twitter: http://wwww.twitter.com/unknown2.0'
 	print 'Unknown2.0 Instagram: http://wwww.instagram.com/unknown2.0'
 	print 'New loaded Botnets: 1,798,445,657'
-	print 'Usage: Jinn (url)'
-	print 'Example: Jinn.py http://israbank.gov.il/'
+	print 'Usage: xbot (url)'
+	print 'Example: xbot.py http://israbank.gov.il/'
 	print "\a"
 print \
 """
-__  __     ____   ___ _____
-\ \/ /    | __ ) / _ \_   _|
- \  /_____|  _ \| | | || |
- /  \_____| |_) | |_| || |
-/_/\_\    |____/ \___/ |_|
-iDDOS Weapon by ----> Unknown2.0
-coded by -----------> Unknown2x
+       __  __     ____   ___ _____
+       \ \/ /    | __ ) / _ \_   _|
+        \  /_____|  _ \| | | || |
+        /  \_____| |_) | |_| || |
+       /_/\_\    |____/ \___/ |_|
+    iDDOS Weapon by ----> Unknown2.0
+    coded by -----------> Unknown2x
 
 """ 
 
