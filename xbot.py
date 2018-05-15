@@ -3411,9 +3411,9 @@ def buildblock(size):
 
 def usage():
 	print 'X-BOT Smokeless DDoS Tool'
-	print 'Unknown2.0 Facebook: http://wwww.facebook.com/armyanons'
-	print 'Army anons Twitter: http://wwww.twitter.com/armyanons'
-	print 'Army anons Instagram: http://wwww.instagram.com/army_anons'
+	print 'Unknown2.0 Facebook: http://wwww.facebook.com/unknwn2.0'
+	print 'We Are Anonymous'
+	print 'We Dont forgot,We Dont Forgive,Expect Us'
 	print 'New loaded Botnets: 1,798,445,657'
 	print 'Usage: Jinn (url)'
 	print 'Example: Jinn.py http://israbank.gov.il/'
