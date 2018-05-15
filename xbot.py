@@ -3412,11 +3412,11 @@ def buildblock(size):
 def usage():
 	print 'X-BOT Smokeless DDoS Tool'
 	print 'Unknown2.0 Facebook: http://wwww.facebook.com/unknwn2.0'
-	print 'We Are Anonymous'
+	print '            We Are Anonymous'
 	print 'We Dont forgot,We Dont Forgive,Expect Us'
 	print 'New loaded Botnets: 1,798,445,657'
-	print 'Usage: Jinn (url)'
-	print 'Example: Jinn.py http://israbank.gov.il/'
+	print 'Usage: X-BOT (url)'
+	print 'Example: xbot.py http://israbank.gov.il/'
 	print "\a"
 print \
 """
