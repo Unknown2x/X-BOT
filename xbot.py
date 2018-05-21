@@ -3419,13 +3419,13 @@ def usage():
 	print "\a"
 print \
 """
- ooo            ooo         888888         o88888o            
-   888        888           88       88     88     oo 88
-     888    888             88       88     88    oo  88
-        88888     8888  88 8888       88   oo   88
-     888    888             88       88     88  oo    88
-   888        888           88       88     88 oo     88
-  888           888         888888          8888888
+ ooo      ooo      888888         o88888o            
+  888    888       88    88     88     oo 88
+   888  888        88    88     88    oo  88
+    888888   8888  88 8888       88   oo   88
+   888  888        88    88     88  oo    88
+  888    888       88    88     88 oo     88
+ 888      888      888888          8888888
 iDDOS Weapon by ----> Unknown2.0
 coded by -----------> Unknown2x
 
@@ -3454,10 +3454,10 @@ def httpcall(url):
 	except urllib2.HTTPError, e:
 			#print e.code
 			set_flag(1)
-			print "We_Are_Anonymous,We_Are_Legion"
+			print "We_Are_Anonymoum-,-We_Are_Legion"
 			print "We_Don't_Forgive,We_Don't_Forgot"
-            print "#---------------Expect---Us-------------------#"
-            code=500
+                        print "#----------Expect---Us---------#"
+                        code=500
 	except urllib2.URLError, e:
 			#print e.reason
 			sys.exit()
