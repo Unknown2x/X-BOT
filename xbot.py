@@ -3409,23 +3409,23 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-	print 'Jinn Smokeless DDoS Tool'
-	print 'Army anons Facebook: http://wwww.facebook.com/armyanons'
-	print 'Army anons Twitter: http://wwww.twitter.com/armyanons'
-	print 'Army anons Instagram: http://wwww.instagram.com/army_anons'
+	print 'X-BOT Smokeless DDoS Tool'
+	print 'We Are Anonymous'
+	print 'We Are Legion'
+	print 'Unknown2.0'
 	print 'New loaded Botnets: 1,798,445,657'
-	print 'Usage: Jinn (url)'
-	print 'Example: Jinn.py http://israbank.gov.il/'
+	print 'Usage: X-BOT (url)'
+	print 'Example: xbot.py http://israbank.gov.il/'
 	print "\a"
 print \
 """
- ooo      ooo      888888         o88888o            
-  888    888       88    88     88     oo 88
-   888  888        88    88     88    oo  88
-    888888   8888  88 8888       88   oo   88
-   888  888        88    88     88  oo    88
-  888    888       88    88     88 oo     88
- 888      888      888888          8888888
+ ooo      ooo      888888        o888888o   888888888888     
+  888    888       88    88     88    oo88       00
+   888  888        88    88     88   oo 88       00
+    888888   8888  88 8888      88  oo  88       00
+   888  888        88    88     88 oo   88       00
+  888    888       88    88     88oo    88       00
+ 888      888      888888        88888888      ..00..
 iDDOS Weapon by ----> Unknown2.0
 coded by -----------> Unknown2x
 
@@ -3497,8 +3497,8 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "JINN Smokeless DDoS Tool "
-		print "Created By Army_anons"
+		print "X-BOT Smokeless DDoS Tool "
+		print "Created By Unknown2.0"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
